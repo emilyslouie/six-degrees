@@ -29,3 +29,6 @@ docker/db-data/
 docker-neo4j/db-data/
 .DS_Store
 .factorypath
+secrets/
+node_modules/
+resources/
